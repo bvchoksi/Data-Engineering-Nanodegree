@@ -1,0 +1,18 @@
+[
+  {
+    "mode": 1,
+    "name": "Air"
+  },
+  {
+    "mode": 2,
+    "name": "Sea"
+  },
+  {
+    "mode": 3,
+    "name": "Land"
+  },
+  {
+    "mode": 9,
+    "name": "Not reported"
+  }
+]

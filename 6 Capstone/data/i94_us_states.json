@@ -1,0 +1,222 @@
+[
+  {
+    "code": "AL",
+    "state": "ALABAMA"
+  },
+  {
+    "code": "AK",
+    "state": "ALASKA"
+  },
+  {
+    "code": "AZ",
+    "state": "ARIZONA"
+  },
+  {
+    "code": "AR",
+    "state": "ARKANSAS"
+  },
+  {
+    "code": "CA",
+    "state": "CALIFORNIA"
+  },
+  {
+    "code": "CO",
+    "state": "COLORADO"
+  },
+  {
+    "code": "CT",
+    "state": "CONNECTICUT"
+  },
+  {
+    "code": "DE",
+    "state": "DELAWARE"
+  },
+  {
+    "code": "DC",
+    "state": "DIST. OF COLUMBIA"
+  },
+  {
+    "code": "FL",
+    "state": "FLORIDA"
+  },
+  {
+    "code": "GA",
+    "state": "GEORGIA"
+  },
+  {
+    "code": "GU",
+    "state": "GUAM"
+  },
+  {
+    "code": "HI",
+    "state": "HAWAII"
+  },
+  {
+    "code": "ID",
+    "state": "IDAHO"
+  },
+  {
+    "code": "IL",
+    "state": "ILLINOIS"
+  },
+  {
+    "code": "IN",
+    "state": "INDIANA"
+  },
+  {
+    "code": "IA",
+    "state": "IOWA"
+  },
+  {
+    "code": "KS",
+    "state": "KANSAS"
+  },
+  {
+    "code": "KY",
+    "state": "KENTUCKY"
+  },
+  {
+    "code": "LA",
+    "state": "LOUISIANA"
+  },
+  {
+    "code": "ME",
+    "state": "MAINE"
+  },
+  {
+    "code": "MD",
+    "state": "MARYLAND"
+  },
+  {
+    "code": "MA",
+    "state": "MASSACHUSETTS"
+  },
+  {
+    "code": "MI",
+    "state": "MICHIGAN"
+  },
+  {
+    "code": "MN",
+    "state": "MINNESOTA"
+  },
+  {
+    "code": "MS",
+    "state": "MISSISSIPPI"
+  },
+  {
+    "code": "MO",
+    "state": "MISSOURI"
+  },
+  {
+    "code": "MT",
+    "state": "MONTANA"
+  },
+  {
+    "code": "NC",
+    "state": "N. CAROLINA"
+  },
+  {
+    "code": "ND",
+    "state": "N. DAKOTA"
+  },
+  {
+    "code": "NE",
+    "state": "NEBRASKA"
+  },
+  {
+    "code": "NV",
+    "state": "NEVADA"
+  },
+  {
+    "code": "NH",
+    "state": "NEW HAMPSHIRE"
+  },
+  {
+    "code": "NJ",
+    "state": "NEW JERSEY"
+  },
+  {
+    "code": "NM",
+    "state": "NEW MEXICO"
+  },
+  {
+    "code": "NY",
+    "state": "NEW YORK"
+  },
+  {
+    "code": "OH",
+    "state": "OHIO"
+  },
+  {
+    "code": "OK",
+    "state": "OKLAHOMA"
+  },
+  {
+    "code": "OR",
+    "state": "OREGON"
+  },
+  {
+    "code": "PA",
+    "state": "PENNSYLVANIA"
+  },
+  {
+    "code": "PR",
+    "state": "PUERTO RICO"
+  },
+  {
+    "code": "RI",
+    "state": "RHODE ISLAND"
+  },
+  {
+    "code": "SC",
+    "state": "S. CAROLINA"
+  },
+  {
+    "code": "SD",
+    "state": "S. DAKOTA"
+  },
+  {
+    "code": "TN",
+    "state": "TENNESSEE"
+  },
+  {
+    "code": "TX",
+    "state": "TEXAS"
+  },
+  {
+    "code": "UT",
+    "state": "UTAH"
+  },
+  {
+    "code": "VT",
+    "state": "VERMONT"
+  },
+  {
+    "code": "VI",
+    "state": "VIRGIN ISLANDS"
+  },
+  {
+    "code": "VA",
+    "state": "VIRGINIA"
+  },
+  {
+    "code": "WV",
+    "state": "W. VIRGINIA"
+  },
+  {
+    "code": "WA",
+    "state": "WASHINGTON"
+  },
+  {
+    "code": "WI",
+    "state": "WISCONSON"
+  },
+  {
+    "code": "WY",
+    "state": "WYOMING"
+  },
+  {
+    "code": 99,
+    "state": "All Other Codes"
+  }
+]

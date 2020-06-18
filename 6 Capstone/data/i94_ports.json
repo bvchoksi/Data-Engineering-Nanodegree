@@ -1,0 +1,2642 @@
+[
+  {
+    "i94_port": "ALC",
+    "city": "ALCAN, AK"
+  },
+  {
+    "i94_port": "ANC",
+    "city": "ANCHORAGE, AK"
+  },
+  {
+    "i94_port": "BAR",
+    "city": "BAKER AAF - BAKER ISLAND, AK"
+  },
+  {
+    "i94_port": "DAC",
+    "city": "DALTONS CACHE, AK"
+  },
+  {
+    "i94_port": "PIZ",
+    "city": "DEW STATION PT LAY DEW, AK"
+  },
+  {
+    "i94_port": "DTH",
+    "city": "DUTCH HARBOR, AK"
+  },
+  {
+    "i94_port": "EGL",
+    "city": "EAGLE, AK"
+  },
+  {
+    "i94_port": "FRB",
+    "city": "FAIRBANKS, AK"
+  },
+  {
+    "i94_port": "HOM",
+    "city": "HOMER, AK"
+  },
+  {
+    "i94_port": "HYD",
+    "city": "HYDER, AK"
+  },
+  {
+    "i94_port": "JUN",
+    "city": "JUNEAU, AK"
+  },
+  {
+    "i94_port": "5KE",
+    "city": "KETCHIKAN, AK"
+  },
+  {
+    "i94_port": "KET",
+    "city": "KETCHIKAN, AK"
+  },
+  {
+    "i94_port": "MOS",
+    "city": "MOSES POINT INTERMEDIATE, AK"
+  },
+  {
+    "i94_port": "NIK",
+    "city": "NIKISKI, AK"
+  },
+  {
+    "i94_port": "NOM",
+    "city": "NOM, AK"
+  },
+  {
+    "i94_port": "PKC",
+    "city": "POKER CREEK, AK"
+  },
+  {
+    "i94_port": "ORI",
+    "city": "PORT LIONS SPB, AK"
+  },
+  {
+    "i94_port": "SKA",
+    "city": "SKAGWAY, AK"
+  },
+  {
+    "i94_port": "SNP",
+    "city": "ST. PAUL ISLAND, AK"
+  },
+  {
+    "i94_port": "TKI",
+    "city": "TOKEEN, AK"
+  },
+  {
+    "i94_port": "WRA",
+    "city": "WRANGELL, AK"
+  },
+  {
+    "i94_port": "HSV",
+    "city": "MADISON COUNTY - HUNTSVILLE, AL"
+  },
+  {
+    "i94_port": "MOB",
+    "city": "MOBILE, AL"
+  },
+  {
+    "i94_port": "LIA",
+    "city": "LITTLE ROCK, AR (BPS)"
+  },
+  {
+    "i94_port": "ROG",
+    "city": "ROGERS ARPT, AR"
+  },
+  {
+    "i94_port": "DOU",
+    "city": "DOUGLAS, AZ"
+  },
+  {
+    "i94_port": "LUK",
+    "city": "LUKEVILLE, AZ"
+  },
+  {
+    "i94_port": "MAP",
+    "city": "MARIPOSA AZ"
+  },
+  {
+    "i94_port": "NAC",
+    "city": "NACO, AZ"
+  },
+  {
+    "i94_port": "NOG",
+    "city": "NOGALES, AZ"
+  },
+  {
+    "i94_port": "PHO",
+    "city": "PHOENIX, AZ"
+  },
+  {
+    "i94_port": "POR",
+    "city": "PORTAL, AZ"
+  },
+  {
+    "i94_port": "SLU",
+    "city": "SAN LUIS, AZ"
+  },
+  {
+    "i94_port": "SAS",
+    "city": "SASABE, AZ"
+  },
+  {
+    "i94_port": "TUC",
+    "city": "TUCSON, AZ"
+  },
+  {
+    "i94_port": "YUI",
+    "city": "YUMA, AZ"
+  },
+  {
+    "i94_port": "AND",
+    "city": "ANDRADE, CA"
+  },
+  {
+    "i94_port": "BUR",
+    "city": "BURBANK, CA"
+  },
+  {
+    "i94_port": "CAL",
+    "city": "CALEXICO, CA"
+  },
+  {
+    "i94_port": "CAO",
+    "city": "CAMPO, CA"
+  },
+  {
+    "i94_port": "FRE",
+    "city": "FRESNO, CA"
+  },
+  {
+    "i94_port": "ICP",
+    "city": "IMPERIAL COUNTY, CA"
+  },
+  {
+    "i94_port": "LNB",
+    "city": "LONG BEACH, CA"
+  },
+  {
+    "i94_port": "LOS",
+    "city": "LOS ANGELES, CA"
+  },
+  {
+    "i94_port": "BFL",
+    "city": "MEADOWS FIELD - BAKERSFIELD, CA"
+  },
+  {
+    "i94_port": "OAK",
+    "city": "OAKLAND, CA"
+  },
+  {
+    "i94_port": "ONT",
+    "city": "ONTARIO, CA"
+  },
+  {
+    "i94_port": "OTM",
+    "city": "OTAY MESA, CA"
+  },
+  {
+    "i94_port": "BLT",
+    "city": "PACIFIC, HWY. STATION, CA"
+  },
+  {
+    "i94_port": "PSP",
+    "city": "PALM SPRINGS, CA"
+  },
+  {
+    "i94_port": "SAC",
+    "city": "SACRAMENTO, CA"
+  },
+  {
+    "i94_port": "SLS",
+    "city": "SALINAS, CA (BPS)"
+  },
+  {
+    "i94_port": "SDP",
+    "city": "SAN DIEGO, CA"
+  },
+  {
+    "i94_port": "SFR",
+    "city": "SAN FRANCISCO, CA"
+  },
+  {
+    "i94_port": "SNJ",
+    "city": "SAN JOSE, CA"
+  },
+  {
+    "i94_port": "SLO",
+    "city": "SAN LUIS OBISPO, CA"
+  },
+  {
+    "i94_port": "SLI",
+    "city": "SAN LUIS OBISPO, CA (BPS)"
+  },
+  {
+    "i94_port": "SPC",
+    "city": "SAN PEDRO, CA"
+  },
+  {
+    "i94_port": "SYS",
+    "city": "SAN YSIDRO, CA"
+  },
+  {
+    "i94_port": "SAA",
+    "city": "SANTA ANA, CA"
+  },
+  {
+    "i94_port": "STO",
+    "city": "STOCKTON, CA (BPS)"
+  },
+  {
+    "i94_port": "TEC",
+    "city": "TECATE, CA"
+  },
+  {
+    "i94_port": "TRV",
+    "city": "TRAVIS-AFB, CA"
+  },
+  {
+    "i94_port": "APA",
+    "city": "ARAPAHOE COUNTY, CO"
+  },
+  {
+    "i94_port": "ASE",
+    "city": "ASPEN, CO #ARPT"
+  },
+  {
+    "i94_port": "COS",
+    "city": "COLORADO SPRINGS, CO"
+  },
+  {
+    "i94_port": "DEN",
+    "city": "DENVER, CO"
+  },
+  {
+    "i94_port": "DRO",
+    "city": "LA PLATA - DURANGO, CO"
+  },
+  {
+    "i94_port": "BDL",
+    "city": "BRADLEY INTERNATIONAL, CT"
+  },
+  {
+    "i94_port": "BGC",
+    "city": "BRIDGEPORT, CT"
+  },
+  {
+    "i94_port": "GRT",
+    "city": "GROTON, CT"
+  },
+  {
+    "i94_port": "HAR",
+    "city": "HARTFORD, CT"
+  },
+  {
+    "i94_port": "NWH",
+    "city": "NEW HAVEN, CT"
+  },
+  {
+    "i94_port": "NWL",
+    "city": "NEW LONDON, CT"
+  },
+  {
+    "i94_port": "TST",
+    "city": "NEWINGTON DATA CENTER TEST, CT"
+  },
+  {
+    "i94_port": "WAS",
+    "city": "WASHINGTON DC"
+  },
+  {
+    "i94_port": "DOV",
+    "city": "DOVER AFB, DE"
+  },
+  {
+    "i94_port": "DVD",
+    "city": "DOVER-AFB, DE"
+  },
+  {
+    "i94_port": "WLL",
+    "city": "WILMINGTON, DE"
+  },
+  {
+    "i94_port": "BOC",
+    "city": "BOCAGRANDE, FL"
+  },
+  {
+    "i94_port": "SRQ",
+    "city": "BRADENTON - SARASOTA, FL"
+  },
+  {
+    "i94_port": "CAN",
+    "city": "CAPE CANAVERAL, FL"
+  },
+  {
+    "i94_port": "DAB",
+    "city": "DAYTONA BEACH INTERNATIONAL, FL"
+  },
+  {
+    "i94_port": "FRN",
+    "city": "FERNANDINA, FL"
+  },
+  {
+    "i94_port": "FTL",
+    "city": "FORT LAUDERDALE, FL"
+  },
+  {
+    "i94_port": "FMY",
+    "city": "FORT MYERS, FL"
+  },
+  {
+    "i94_port": "FPF",
+    "city": "FORT PIERCE, FL"
+  },
+  {
+    "i94_port": "HUR",
+    "city": "HURLBURT FIELD, FL"
+  },
+  {
+    "i94_port": "GNV",
+    "city": "J R ALISON MUNI - GAINESVILLE, FL"
+  },
+  {
+    "i94_port": "JAC",
+    "city": "JACKSONVILLE, FL"
+  },
+  {
+    "i94_port": "KEY",
+    "city": "KEY WEST, FL"
+  },
+  {
+    "i94_port": "LEE",
+    "city": "LEESBURG MUNICIPAL AIRPORT, FL"
+  },
+  {
+    "i94_port": "MLB",
+    "city": "MELBOURNE, FL"
+  },
+  {
+    "i94_port": "MIA",
+    "city": "MIAMI, FL"
+  },
+  {
+    "i94_port": "APF",
+    "city": "NAPLES, FL #ARPT"
+  },
+  {
+    "i94_port": "OPF",
+    "city": "OPA LOCKA, FL"
+  },
+  {
+    "i94_port": "ORL",
+    "city": "ORLANDO, FL"
+  },
+  {
+    "i94_port": "PAN",
+    "city": "PANAMA CITY, FL"
+  },
+  {
+    "i94_port": "PEN",
+    "city": "PENSACOLA, FL"
+  },
+  {
+    "i94_port": "PCF",
+    "city": "PORT CANAVERAL, FL"
+  },
+  {
+    "i94_port": "PEV",
+    "city": "PORT EVERGLADES, FL"
+  },
+  {
+    "i94_port": "PSJ",
+    "city": "PORT ST JOE, FL"
+  },
+  {
+    "i94_port": "SFB",
+    "city": "SANFORD, FL"
+  },
+  {
+    "i94_port": "SGJ",
+    "city": "ST AUGUSTINE ARPT, FL"
+  },
+  {
+    "i94_port": "SAU",
+    "city": "ST AUGUSTINE, FL"
+  },
+  {
+    "i94_port": "FPR",
+    "city": "ST LUCIE COUNTY, FL"
+  },
+  {
+    "i94_port": "SPE",
+    "city": "ST PETERSBURG, FL"
+  },
+  {
+    "i94_port": "TAM",
+    "city": "TAMPA, FL"
+  },
+  {
+    "i94_port": "WPB",
+    "city": "WEST PALM BEACH, FL"
+  },
+  {
+    "i94_port": "ATL",
+    "city": "ATLANTA, GA"
+  },
+  {
+    "i94_port": "BRU",
+    "city": "BRUNSWICK, GA"
+  },
+  {
+    "i94_port": "AGS",
+    "city": "BUSH FIELD - AUGUSTA, GA"
+  },
+  {
+    "i94_port": "SAV",
+    "city": "SAVANNAH, GA"
+  },
+  {
+    "i94_port": "AGA",
+    "city": "AGANA, GU"
+  },
+  {
+    "i94_port": "HHW",
+    "city": "HONOLULU, HI"
+  },
+  {
+    "i94_port": "OGG",
+    "city": "KAHULUI - MAUI, HI"
+  },
+  {
+    "i94_port": "KOA",
+    "city": "KEAHOLE-KONA, HI"
+  },
+  {
+    "i94_port": "LIH",
+    "city": "LIHUE, HI"
+  },
+  {
+    "i94_port": "CID",
+    "city": "CEDAR RAPIDS/IOWA CITY, IA"
+  },
+  {
+    "i94_port": "DSM",
+    "city": "DES MOINES, IA"
+  },
+  {
+    "i94_port": "BOI",
+    "city": "AIR TERM. (GOWEN FLD) BOISE, ID"
+  },
+  {
+    "i94_port": "EPI",
+    "city": "EASTPORT, ID"
+  },
+  {
+    "i94_port": "IDA",
+    "city": "FANNING FIELD - IDAHO FALLS, ID"
+  },
+  {
+    "i94_port": "PTL",
+    "city": "PORTHILL, ID"
+  },
+  {
+    "i94_port": "SPI",
+    "city": "CAPITAL - SPRINGFIELD, IL"
+  },
+  {
+    "i94_port": "CHI",
+    "city": "CHICAGO, IL"
+  },
+  {
+    "i94_port": "DPA",
+    "city": "DUPAGE COUNTY, IL"
+  },
+  {
+    "i94_port": "PIA",
+    "city": "GREATER PEORIA, IL"
+  },
+  {
+    "i94_port": "RFD",
+    "city": "GREATER ROCKFORD, IL"
+  },
+  {
+    "i94_port": "UGN",
+    "city": "MEMORIAL - WAUKEGAN, IL"
+  },
+  {
+    "i94_port": "GAR",
+    "city": "GARY, IN"
+  },
+  {
+    "i94_port": "HMM",
+    "city": "HAMMOND, IN"
+  },
+  {
+    "i94_port": "INP",
+    "city": "INDIANAPOLIS, IN"
+  },
+  {
+    "i94_port": "MRL",
+    "city": "MERRILLVILLE, IN"
+  },
+  {
+    "i94_port": "SBN",
+    "city": "SOUTH BEND, IN"
+  },
+  {
+    "i94_port": "ICT",
+    "city": "MID-CONTINENT - WITCHITA, KS"
+  },
+  {
+    "i94_port": "LEX",
+    "city": "BLUE GRASS - LEXINGTON, KY"
+  },
+  {
+    "i94_port": "LOU",
+    "city": "LOUISVILLE, KY"
+  },
+  {
+    "i94_port": "BTN",
+    "city": "BATON ROUGE, LA"
+  },
+  {
+    "i94_port": "LKC",
+    "city": "LAKE CHARLES, LA"
+  },
+  {
+    "i94_port": "LAK",
+    "city": "LAKE CHARLES, LA (BPS)"
+  },
+  {
+    "i94_port": "MLU",
+    "city": "MONROE, LA"
+  },
+  {
+    "i94_port": "MGC",
+    "city": "MORGAN CITY, LA"
+  },
+  {
+    "i94_port": "NOL",
+    "city": "NEW ORLEANS, LA"
+  },
+  {
+    "i94_port": "BOS",
+    "city": "BOSTON, MA"
+  },
+  {
+    "i94_port": "GLO",
+    "city": "GLOUCESTER, MA"
+  },
+  {
+    "i94_port": "BED",
+    "city": "HANSCOM FIELD - BEDFORD, MA"
+  },
+  {
+    "i94_port": "LYN",
+    "city": "LYNDEN, WA"
+  },
+  {
+    "i94_port": "ADW",
+    "city": "ANDREWS AFB, MD"
+  },
+  {
+    "i94_port": "BAL",
+    "city": "BALTIMORE, MD"
+  },
+  {
+    "i94_port": "MKG",
+    "city": "MUSKEGON, MD"
+  },
+  {
+    "i94_port": "PAX",
+    "city": "PATUXENT RIVER, MD"
+  },
+  {
+    "i94_port": "BGM",
+    "city": "BANGOR, ME"
+  },
+  {
+    "i94_port": "BOO",
+    "city": "BOOTHBAY HARBOR, ME"
+  },
+  {
+    "i94_port": "BWM",
+    "city": "BRIDGEWATER, ME"
+  },
+  {
+    "i94_port": "BCK",
+    "city": "BUCKPORT, ME"
+  },
+  {
+    "i94_port": "CLS",
+    "city": "CALAIS, ME"
+  },
+  {
+    "i94_port": "CRB",
+    "city": "CARIBOU, ME"
+  },
+  {
+    "i94_port": "COB",
+    "city": "COBURN GORE, ME"
+  },
+  {
+    "i94_port": "EST",
+    "city": "EASTCOURT, ME"
+  },
+  {
+    "i94_port": "EPT",
+    "city": "EASTPORT MUNICIPAL, ME"
+  },
+  {
+    "i94_port": "EPM",
+    "city": "EASTPORT, ME"
+  },
+  {
+    "i94_port": "FOR",
+    "city": "FOREST CITY, ME"
+  },
+  {
+    "i94_port": "FTF",
+    "city": "FORT FAIRFIELD, ME"
+  },
+  {
+    "i94_port": "FTK",
+    "city": "FORT KENT, ME"
+  },
+  {
+    "i94_port": "HML",
+    "city": "HAMIIN, ME"
+  },
+  {
+    "i94_port": "HTM",
+    "city": "HOULTON, ME"
+  },
+  {
+    "i94_port": "JKM",
+    "city": "JACKMAN, ME"
+  },
+  {
+    "i94_port": "KAL",
+    "city": "KALISPEL, MT"
+  },
+  {
+    "i94_port": "LIM",
+    "city": "LIMESTONE, ME"
+  },
+  {
+    "i94_port": "LUB",
+    "city": "LUBEC, ME"
+  },
+  {
+    "i94_port": "MAD",
+    "city": "MADAWASKA, ME"
+  },
+  {
+    "i94_port": "POM",
+    "city": "PORTLAND, ME"
+  },
+  {
+    "i94_port": "RGM",
+    "city": "RANGELEY, ME (BPS)"
+  },
+  {
+    "i94_port": "SBR",
+    "city": "SOUTH BREWER, ME"
+  },
+  {
+    "i94_port": "SRL",
+    "city": "ST AURELIE, ME"
+  },
+  {
+    "i94_port": "SPA",
+    "city": "ST PAMPILE, ME"
+  },
+  {
+    "i94_port": "VNB",
+    "city": "VAN BUREN, ME"
+  },
+  {
+    "i94_port": "VCB",
+    "city": "VANCEBORO, ME"
+  },
+  {
+    "i94_port": "AGN",
+    "city": "ALGONAC, MI"
+  },
+  {
+    "i94_port": "ALP",
+    "city": "ALPENA, MI"
+  },
+  {
+    "i94_port": "BCY",
+    "city": "BAY CITY, MI"
+  },
+  {
+    "i94_port": "DET",
+    "city": "DETROIT, MI"
+  },
+  {
+    "i94_port": "GRP",
+    "city": "GRAND RAPIDS, MI"
+  },
+  {
+    "i94_port": "GRO",
+    "city": "GROSSE ISLE, MI"
+  },
+  {
+    "i94_port": "ISL",
+    "city": "ISLE ROYALE, MI"
+  },
+  {
+    "i94_port": "MRC",
+    "city": "MARINE CITY, MI"
+  },
+  {
+    "i94_port": "MRY",
+    "city": "MARYSVILLE, MI"
+  },
+  {
+    "i94_port": "PTK",
+    "city": "OAKLAND COUNTY - PONTIAC, MI"
+  },
+  {
+    "i94_port": "PHU",
+    "city": "PORT HURON, MI"
+  },
+  {
+    "i94_port": "RBT",
+    "city": "ROBERTS LANDING, MI"
+  },
+  {
+    "i94_port": "SAG",
+    "city": "SAGINAW, MI"
+  },
+  {
+    "i94_port": "SSM",
+    "city": "SAULT STE. MARIE, MI"
+  },
+  {
+    "i94_port": "SCL",
+    "city": "ST CLAIR, MI"
+  },
+  {
+    "i94_port": "YIP",
+    "city": "WILLOW RUN - YPSILANTI, MI"
+  },
+  {
+    "i94_port": "BAU",
+    "city": "BAUDETTE, MN"
+  },
+  {
+    "i94_port": "CAR",
+    "city": "CARIBOU MUNICIPAL AIRPORT, MN"
+  },
+  {
+    "i94_port": "GTF",
+    "city": "Collapsed into INT, MN"
+  },
+  {
+    "i94_port": "INL",
+    "city": "Collapsed into INT, MN"
+  },
+  {
+    "i94_port": "CRA",
+    "city": "CRANE LAKE, MN"
+  },
+  {
+    "i94_port": "MIC",
+    "city": "CRYSTAL MUNICIPAL AIRPORT, MN"
+  },
+  {
+    "i94_port": "DUL",
+    "city": "DULUTH, MN"
+  },
+  {
+    "i94_port": "ELY",
+    "city": "ELY, MN"
+  },
+  {
+    "i94_port": "GPM",
+    "city": "GRAND PORTAGE, MN"
+  },
+  {
+    "i94_port": "SVC",
+    "city": "GRANT COUNTY - SILVER CITY, MN"
+  },
+  {
+    "i94_port": "INT",
+    "city": "INT\"L FALLS, MN"
+  },
+  {
+    "i94_port": "LAN",
+    "city": "LANCASTER, MN"
+  },
+  {
+    "i94_port": "MSP",
+    "city": "MINN./ST PAUL, MN"
+  },
+  {
+    "i94_port": "LIN",
+    "city": "NORTHERN SVC CENTER, MN"
+  },
+  {
+    "i94_port": "NOY",
+    "city": "NOYES, MN"
+  },
+  {
+    "i94_port": "PIN",
+    "city": "PINE CREEK, MN"
+  },
+  {
+    "i94_port": "48Y",
+    "city": "PINECREEK BORDER ARPT, MN"
+  },
+  {
+    "i94_port": "RAN",
+    "city": "RAINER, MN"
+  },
+  {
+    "i94_port": "RST",
+    "city": "ROCHESTER, MN"
+  },
+  {
+    "i94_port": "ROS",
+    "city": "ROSEAU, MN"
+  },
+  {
+    "i94_port": "SPM",
+    "city": "ST PAUL, MN"
+  },
+  {
+    "i94_port": "WSB",
+    "city": "WARROAD INTL, SPB, MN"
+  },
+  {
+    "i94_port": "WAR",
+    "city": "WARROAD, MN"
+  },
+  {
+    "i94_port": "KAN",
+    "city": "KANSAS CITY, MO"
+  },
+  {
+    "i94_port": "SGF",
+    "city": "SPRINGFIELD-BRANSON, MO"
+  },
+  {
+    "i94_port": "STL",
+    "city": "ST LOUIS, MO"
+  },
+  {
+    "i94_port": "WHI",
+    "city": "WHITETAIL, MT"
+  },
+  {
+    "i94_port": "WHM",
+    "city": "WILD HORSE, MT"
+  },
+  {
+    "i94_port": "GPT",
+    "city": "BILOXI REGIONAL, MS"
+  },
+  {
+    "i94_port": "GTR",
+    "city": "GOLDEN TRIANGLE LOWNDES CNTY, MS"
+  },
+  {
+    "i94_port": "GUL",
+    "city": "GULFPORT, MS"
+  },
+  {
+    "i94_port": "PAS",
+    "city": "PASCAGOULA, MS"
+  },
+  {
+    "i94_port": "JAN",
+    "city": "THOMPSON FIELD - JACKSON, MS"
+  },
+  {
+    "i94_port": "BIL",
+    "city": "BILLINGS, MT"
+  },
+  {
+    "i94_port": "BTM",
+    "city": "BUTTE, MT"
+  },
+  {
+    "i94_port": "CHF",
+    "city": "CHIEF MT, MT"
+  },
+  {
+    "i94_port": "CTB",
+    "city": "CUT BANK MUNICIPAL, MT"
+  },
+  {
+    "i94_port": "CUT",
+    "city": "CUT BANK, MT"
+  },
+  {
+    "i94_port": "DLB",
+    "city": "DEL BONITA, MT"
+  },
+  {
+    "i94_port": "EUR",
+    "city": "EUREKA, MT (BPS)"
+  },
+  {
+    "i94_port": "BZN",
+    "city": "GALLATIN FIELD - BOZEMAN, MT"
+  },
+  {
+    "i94_port": "FCA",
+    "city": "GLACIER NATIONAL PARK, MT"
+  },
+  {
+    "i94_port": "GGW",
+    "city": "GLASGOW, MT"
+  },
+  {
+    "i94_port": "GRE",
+    "city": "GREAT FALLS, MT"
+  },
+  {
+    "i94_port": "HVR",
+    "city": "HAVRE, MT"
+  },
+  {
+    "i94_port": "HEL",
+    "city": "HELENA, MT"
+  },
+  {
+    "i94_port": "LWT",
+    "city": "LEWISTON, MT"
+  },
+  {
+    "i94_port": "MGM",
+    "city": "MORGAN, MT"
+  },
+  {
+    "i94_port": "OPH",
+    "city": "OPHEIM, MT"
+  },
+  {
+    "i94_port": "PIE",
+    "city": "PIEGAN, MT"
+  },
+  {
+    "i94_port": "RAY",
+    "city": "RAYMOND, MT"
+  },
+  {
+    "i94_port": "ROO",
+    "city": "ROOSVILLE, MT"
+  },
+  {
+    "i94_port": "SCO",
+    "city": "SCOBEY, MT"
+  },
+  {
+    "i94_port": "SWE",
+    "city": "SWEETGTASS, MT"
+  },
+  {
+    "i94_port": "TRL",
+    "city": "TRIAL CREEK, MT"
+  },
+  {
+    "i94_port": "TUR",
+    "city": "TURNER, MT"
+  },
+  {
+    "i94_port": "WCM",
+    "city": "WILLOW CREEK, MT"
+  },
+  {
+    "i94_port": "CLT",
+    "city": "CHARLOTTE, NC"
+  },
+  {
+    "i94_port": "FAY",
+    "city": "FAYETTEVILLE, NC"
+  },
+  {
+    "i94_port": "MRH",
+    "city": "MOREHEAD CITY, NC"
+  },
+  {
+    "i94_port": "FOP",
+    "city": "MORRIS FIELDS AAF, NC"
+  },
+  {
+    "i94_port": "GSO",
+    "city": "PIEDMONT TRIAD INTL AIRPORT, NC"
+  },
+  {
+    "i94_port": "RDU",
+    "city": "RALEIGH/DURHAM, NC"
+  },
+  {
+    "i94_port": "SSC",
+    "city": "SHAW AFB - SUMTER, NC"
+  },
+  {
+    "i94_port": "WIL",
+    "city": "WILMINGTON, NC"
+  },
+  {
+    "i94_port": "AMB",
+    "city": "AMBROSE, ND"
+  },
+  {
+    "i94_port": "ANT",
+    "city": "ANTLER, ND"
+  },
+  {
+    "i94_port": "CRY",
+    "city": "CARBURY, ND"
+  },
+  {
+    "i94_port": "DNS",
+    "city": "DUNSEITH, ND"
+  },
+  {
+    "i94_port": "FAR",
+    "city": "FARGO, ND"
+  },
+  {
+    "i94_port": "FRT",
+    "city": "FORTUNA, ND"
+  },
+  {
+    "i94_port": "GRF",
+    "city": "GRAND FORKS, ND"
+  },
+  {
+    "i94_port": "HNN",
+    "city": "HANNAH, ND"
+  },
+  {
+    "i94_port": "HNS",
+    "city": "HANSBORO, ND"
+  },
+  {
+    "i94_port": "MAI",
+    "city": "MAIDA, ND"
+  },
+  {
+    "i94_port": "MND",
+    "city": "MINOT, ND"
+  },
+  {
+    "i94_port": "NEC",
+    "city": "NECHE, ND"
+  },
+  {
+    "i94_port": "NOO",
+    "city": "NOONAN, ND"
+  },
+  {
+    "i94_port": "NRG",
+    "city": "NORTHGATE, ND"
+  },
+  {
+    "i94_port": "PEM",
+    "city": "PEMBINA, ND"
+  },
+  {
+    "i94_port": "SAR",
+    "city": "SARLES, ND"
+  },
+  {
+    "i94_port": "SHR",
+    "city": "SHERWOOD, ND"
+  },
+  {
+    "i94_port": "SJO",
+    "city": "ST JOHN, ND"
+  },
+  {
+    "i94_port": "WAL",
+    "city": "WALHALLA, ND"
+  },
+  {
+    "i94_port": "WHO",
+    "city": "WESTHOPE, ND"
+  },
+  {
+    "i94_port": "WND",
+    "city": "WILLISTON, ND"
+  },
+  {
+    "i94_port": "OMA",
+    "city": "OMAHA, NE"
+  },
+  {
+    "i94_port": "LEB",
+    "city": "LEBANON, NH"
+  },
+  {
+    "i94_port": "MHT",
+    "city": "MANCHESTER, NH"
+  },
+  {
+    "i94_port": "PNH",
+    "city": "PITTSBURG, NH"
+  },
+  {
+    "i94_port": "PSM",
+    "city": "PORTSMOUTH, NH"
+  },
+  {
+    "i94_port": "BYO",
+    "city": "BAYONNE, NJ"
+  },
+  {
+    "i94_port": "CNJ",
+    "city": "CAMDEN, NJ"
+  },
+  {
+    "i94_port": "HOB",
+    "city": "HOBOKEN, NJ"
+  },
+  {
+    "i94_port": "JER",
+    "city": "JERSEY CITY, NJ"
+  },
+  {
+    "i94_port": "WRI",
+    "city": "MC GUIRE AFB - WRIGHTSOWN, NJ"
+  },
+  {
+    "i94_port": "MMU",
+    "city": "MORRISTOWN, NJ"
+  },
+  {
+    "i94_port": "NEW",
+    "city": "NEWARK/TETERBORO, NJ"
+  },
+  {
+    "i94_port": "PER",
+    "city": "PERTH AMBOY, NJ"
+  },
+  {
+    "i94_port": "ACY",
+    "city": "POMONA FIELD - ATLANTIC CITY, NJ"
+  },
+  {
+    "i94_port": "ALA",
+    "city": "ALAMAGORDO, NM (BPS)"
+  },
+  {
+    "i94_port": "ABQ",
+    "city": "ALBUQUERQUE, NM"
+  },
+  {
+    "i94_port": "ANP",
+    "city": "ANTELOPE WELLS, NM"
+  },
+  {
+    "i94_port": "CRL",
+    "city": "CARLSBAD, NM"
+  },
+  {
+    "i94_port": "COL",
+    "city": "COLUMBUS, NM"
+  },
+  {
+    "i94_port": "CDD",
+    "city": "CRANE LAKE - ST. LOUIS CNTY, NM"
+  },
+  {
+    "i94_port": "DNM",
+    "city": "DEMING, NM (BPS)"
+  },
+  {
+    "i94_port": "LAS",
+    "city": "LAS CRUCES, NM"
+  },
+  {
+    "i94_port": "LOB",
+    "city": "LORDSBURG, NM (BPS)"
+  },
+  {
+    "i94_port": "RUI",
+    "city": "RUIDOSO, NM"
+  },
+  {
+    "i94_port": "STR",
+    "city": "SANTA TERESA, NM"
+  },
+  {
+    "i94_port": "RNO",
+    "city": "CANNON INTL - RENO/TAHOE, NV"
+  },
+  {
+    "i94_port": "FLX",
+    "city": "FALLON MUNICIPAL AIRPORT, NV"
+  },
+  {
+    "i94_port": "LVG",
+    "city": "LAS VEGAS, NV"
+  },
+  {
+    "i94_port": "REN",
+    "city": "RENO, NV"
+  },
+  {
+    "i94_port": "ALB",
+    "city": "ALBANY, NY"
+  },
+  {
+    "i94_port": "AXB",
+    "city": "ALEXANDRIA BAY, NY"
+  },
+  {
+    "i94_port": "BUF",
+    "city": "BUFFALO, NY"
+  },
+  {
+    "i94_port": "CNH",
+    "city": "CANNON CORNERS, NY"
+  },
+  {
+    "i94_port": "CAP",
+    "city": "CAPE VINCENT, NY"
+  },
+  {
+    "i94_port": "CHM",
+    "city": "CHAMPLAIN, NY"
+  },
+  {
+    "i94_port": "CHT",
+    "city": "CHATEAUGAY, NY"
+  },
+  {
+    "i94_port": "CLA",
+    "city": "CLAYTON, NY"
+  },
+  {
+    "i94_port": "FTC",
+    "city": "FORT COVINGTON, NY"
+  },
+  {
+    "i94_port": "LAG",
+    "city": "LA GUARDIA, NY"
+  },
+  {
+    "i94_port": "LEW",
+    "city": "LEWISTON, NY"
+  },
+  {
+    "i94_port": "MAS",
+    "city": "MASSENA, NY"
+  },
+  {
+    "i94_port": "MAG",
+    "city": "MCGUIRE AFB, NY"
+  },
+  {
+    "i94_port": "MOO",
+    "city": "MOORES, NY"
+  },
+  {
+    "i94_port": "MRR",
+    "city": "MORRISTOWN, NY"
+  },
+  {
+    "i94_port": "NYC",
+    "city": "NEW YORK, NY"
+  },
+  {
+    "i94_port": "NIA",
+    "city": "NIAGARA FALLS, NY"
+  },
+  {
+    "i94_port": "OGD",
+    "city": "OGDENSBURG, NY"
+  },
+  {
+    "i94_port": "OSW",
+    "city": "OSWEGO, NY"
+  },
+  {
+    "i94_port": "ELM",
+    "city": "REGIONAL ARPT - HORSEHEAD, NY"
+  },
+  {
+    "i94_port": "ROC",
+    "city": "ROCHESTER, NY"
+  },
+  {
+    "i94_port": "ROU",
+    "city": "ROUSES POINT, NY"
+  },
+  {
+    "i94_port": "SWF",
+    "city": "STEWART - ORANGE CNTY, NY"
+  },
+  {
+    "i94_port": "SYR",
+    "city": "SYRACUSE, NY"
+  },
+  {
+    "i94_port": "THO",
+    "city": "THOUSAND ISLAND BRIDGE, NY"
+  },
+  {
+    "i94_port": "TRO",
+    "city": "TROUT RIVER, NY"
+  },
+  {
+    "i94_port": "WAT",
+    "city": "WATERTOWN, NY"
+  },
+  {
+    "i94_port": "HPN",
+    "city": "WESTCHESTER - WHITE PLAINS, NY"
+  },
+  {
+    "i94_port": "WRB",
+    "city": "WHIRLPOOL BRIDGE, NY"
+  },
+  {
+    "i94_port": "YOU",
+    "city": "YOUNGSTOWN, NY"
+  },
+  {
+    "i94_port": "AKR",
+    "city": "AKRON, OH"
+  },
+  {
+    "i94_port": "ATB",
+    "city": "ASHTABULA, OH"
+  },
+  {
+    "i94_port": "CIN",
+    "city": "CINCINNATI, OH"
+  },
+  {
+    "i94_port": "CLE",
+    "city": "CLEVELAND, OH"
+  },
+  {
+    "i94_port": "CLM",
+    "city": "COLUMBUS, OH"
+  },
+  {
+    "i94_port": "LOR",
+    "city": "LORAIN, OH"
+  },
+  {
+    "i94_port": "MBO",
+    "city": "MARBLE HEADS, OH"
+  },
+  {
+    "i94_port": "SDY",
+    "city": "SANDUSKY, OH"
+  },
+  {
+    "i94_port": "TOL",
+    "city": "TOLEDO, OH"
+  },
+  {
+    "i94_port": "OKC",
+    "city": "OKLAHOMA CITY, OK"
+  },
+  {
+    "i94_port": "TUL",
+    "city": "TULSA, OK"
+  },
+  {
+    "i94_port": "AST",
+    "city": "ASTORIA, OR"
+  },
+  {
+    "i94_port": "COO",
+    "city": "COOS BAY, OR"
+  },
+  {
+    "i94_port": "HIO",
+    "city": "HILLSBORO, OR"
+  },
+  {
+    "i94_port": "MED",
+    "city": "MEDFORD, OR"
+  },
+  {
+    "i94_port": "NPT",
+    "city": "NEWPORT, OR"
+  },
+  {
+    "i94_port": "POO",
+    "city": "PORTLAND, OR"
+  },
+  {
+    "i94_port": "PUT",
+    "city": "PUT-IN-BAY, OH"
+  },
+  {
+    "i94_port": "RDM",
+    "city": "ROBERTS FIELDS - REDMOND, OR"
+  },
+  {
+    "i94_port": "ERI",
+    "city": "ERIE, PA"
+  },
+  {
+    "i94_port": "MDT",
+    "city": "HARRISBURG, PA"
+  },
+  {
+    "i94_port": "HSB",
+    "city": "HARRISONBURG, PA"
+  },
+  {
+    "i94_port": "PHI",
+    "city": "PHILADELPHIA, PA"
+  },
+  {
+    "i94_port": "PIT",
+    "city": "PITTSBURG, PA"
+  },
+  {
+    "i94_port": "AGU",
+    "city": "AGUADILLA, PR"
+  },
+  {
+    "i94_port": "BQN",
+    "city": "BORINQUEN - AGUADILLO, PR"
+  },
+  {
+    "i94_port": "JCP",
+    "city": "CULEBRA - BENJAMIN RIVERA, PR"
+  },
+  {
+    "i94_port": "ENS",
+    "city": "ENSENADA, PR"
+  },
+  {
+    "i94_port": "FAJ",
+    "city": "FAJARDO, PR"
+  },
+  {
+    "i94_port": "HUM",
+    "city": "HUMACAO, PR"
+  },
+  {
+    "i94_port": "JOB",
+    "city": "JOBOS, PR"
+  },
+  {
+    "i94_port": "MAY",
+    "city": "MAYAGUEZ, PR"
+  },
+  {
+    "i94_port": "PON",
+    "city": "PONCE, PR"
+  },
+  {
+    "i94_port": "PSE",
+    "city": "PONCE-MERCEDITA, PR"
+  },
+  {
+    "i94_port": "SAJ",
+    "city": "SAN JUAN, PR"
+  },
+  {
+    "i94_port": "VQS",
+    "city": "VIEQUES-ARPT, PR"
+  },
+  {
+    "i94_port": "PRO",
+    "city": "PROVIDENCE, RI"
+  },
+  {
+    "i94_port": "PVD",
+    "city": "THEODORE FRANCIS - WARWICK, RI"
+  },
+  {
+    "i94_port": "CHL",
+    "city": "CHARLESTON, SC"
+  },
+  {
+    "i94_port": "CAE",
+    "city": "COLUMBIA, SC #ARPT"
+  },
+  {
+    "i94_port": "GEO",
+    "city": "GEORGETOWN, SC"
+  },
+  {
+    "i94_port": "GSP",
+    "city": "GREENVILLE, SC"
+  },
+  {
+    "i94_port": "GRR",
+    "city": "GREER, SC"
+  },
+  {
+    "i94_port": "MYR",
+    "city": "MYRTLE BEACH, SC"
+  },
+  {
+    "i94_port": "SPF",
+    "city": "BLACK HILLS, SPEARFISH, SD"
+  },
+  {
+    "i94_port": "HON",
+    "city": "HOWES REGIONAL ARPT - HURON, SD"
+  },
+  {
+    "i94_port": "SAI",
+    "city": "SAIPAN, SPN"
+  },
+  {
+    "i94_port": "TYS",
+    "city": "MC GHEE TYSON - ALCOA, TN"
+  },
+  {
+    "i94_port": "MEM",
+    "city": "MEMPHIS, TN"
+  },
+  {
+    "i94_port": "NSV",
+    "city": "NASHVILLE, TN"
+  },
+  {
+    "i94_port": "TRI",
+    "city": "TRI CITY ARPT, TN"
+  },
+  {
+    "i94_port": "ADS",
+    "city": "ADDISON AIRPORT- ADDISON, TX"
+  },
+  {
+    "i94_port": "ADT",
+    "city": "AMISTAD DAM, TX"
+  },
+  {
+    "i94_port": "ANZ",
+    "city": "ANZALDUAS, TX"
+  },
+  {
+    "i94_port": "AUS",
+    "city": "AUSTIN, TX"
+  },
+  {
+    "i94_port": "BEA",
+    "city": "BEAUMONT, TX"
+  },
+  {
+    "i94_port": "BBP",
+    "city": "BIG BEND PARK, TX (BPS)"
+  },
+  {
+    "i94_port": "SCC",
+    "city": "BP SPEC COORD. CTR, TX"
+  },
+  {
+    "i94_port": "BTC",
+    "city": "BP TACTICAL UNIT, TX"
+  },
+  {
+    "i94_port": "BOA",
+    "city": "BRIDGE OF AMERICAS, TX"
+  },
+  {
+    "i94_port": "BRO",
+    "city": "BROWNSVILLE, TX"
+  },
+  {
+    "i94_port": "CRP",
+    "city": "CORPUS CHRISTI, TX"
+  },
+  {
+    "i94_port": "DAL",
+    "city": "DALLAS, TX"
+  },
+  {
+    "i94_port": "DLR",
+    "city": "DEL RIO, TX"
+  },
+  {
+    "i94_port": "DNA",
+    "city": "DONNA, TX"
+  },
+  {
+    "i94_port": "EGP",
+    "city": "EAGLE PASS, TX"
+  },
+  {
+    "i94_port": "ELP",
+    "city": "EL PASO, TX"
+  },
+  {
+    "i94_port": "FAB",
+    "city": "FABENS, TX"
+  },
+  {
+    "i94_port": "FAL",
+    "city": "FALCON HEIGHTS, TX"
+  },
+  {
+    "i94_port": "FTH",
+    "city": "FORT HANCOCK, TX"
+  },
+  {
+    "i94_port": "AFW",
+    "city": "FORT WORTH ALLIANCE, TX"
+  },
+  {
+    "i94_port": "FPT",
+    "city": "FREEPORT, TX"
+  },
+  {
+    "i94_port": "GAL",
+    "city": "GALVESTON, TX"
+  },
+  {
+    "i94_port": "HLG",
+    "city": "HARLINGEN, TX"
+  },
+  {
+    "i94_port": "HID",
+    "city": "HIDALGO, TX"
+  },
+  {
+    "i94_port": "HOU",
+    "city": "HOUSTON, TX"
+  },
+  {
+    "i94_port": "SGR",
+    "city": "HULL FIELD, SUGAR LAND ARPT, TX"
+  },
+  {
+    "i94_port": "LLB",
+    "city": "JUAREZ-LINCOLN BRIDGE, TX"
+  },
+  {
+    "i94_port": "LCB",
+    "city": "LAREDO COLUMBIA BRIDGE, TX"
+  },
+  {
+    "i94_port": "LRN",
+    "city": "LAREDO NORTH, TX"
+  },
+  {
+    "i94_port": "LAR",
+    "city": "LAREDO, TX"
+  },
+  {
+    "i94_port": "LSE",
+    "city": "LOS EBANOS, TX"
+  },
+  {
+    "i94_port": "IND",
+    "city": "LOS INDIOS, TX"
+  },
+  {
+    "i94_port": "LOI",
+    "city": "LOS INDIOS, TX"
+  },
+  {
+    "i94_port": "MRS",
+    "city": "MARFA, TX (BPS)"
+  },
+  {
+    "i94_port": "MCA",
+    "city": "MCALLEN, TX"
+  },
+  {
+    "i94_port": "MAF",
+    "city": "ODESSA REGIONAL, TX"
+  },
+  {
+    "i94_port": "PDN",
+    "city": "PASO DEL NORTE,TX"
+  },
+  {
+    "i94_port": "PBB",
+    "city": "PEACE BRIDGE, NY"
+  },
+  {
+    "i94_port": "PHR",
+    "city": "PHARR, TX"
+  },
+  {
+    "i94_port": "PAR",
+    "city": "PORT ARTHUR, TX"
+  },
+  {
+    "i94_port": "ISB",
+    "city": "PORT ISABEL, TX"
+  },
+  {
+    "i94_port": "POE",
+    "city": "PORT OF EL PASO, TX"
+  },
+  {
+    "i94_port": "PRE",
+    "city": "PRESIDIO, TX"
+  },
+  {
+    "i94_port": "PGR",
+    "city": "PROGRESO, TX"
+  },
+  {
+    "i94_port": "RIO",
+    "city": "RIO GRANDE CITY, TX"
+  },
+  {
+    "i94_port": "ROM",
+    "city": "ROMA, TX"
+  },
+  {
+    "i94_port": "SNA",
+    "city": "SAN ANTONIO, TX"
+  },
+  {
+    "i94_port": "SNN",
+    "city": "SANDERSON, TX"
+  },
+  {
+    "i94_port": "VIB",
+    "city": "VETERAN INTL BRIDGE, TX"
+  },
+  {
+    "i94_port": "YSL",
+    "city": "YSLETA, TX"
+  },
+  {
+    "i94_port": "CHA",
+    "city": "CHARLOTTE AMALIE, VI"
+  },
+  {
+    "i94_port": "CHR",
+    "city": "CHRISTIANSTED, VI"
+  },
+  {
+    "i94_port": "CRU",
+    "city": "CRUZ BAY, ST JOHN, VI"
+  },
+  {
+    "i94_port": "FRK",
+    "city": "FREDERIKSTED, VI"
+  },
+  {
+    "i94_port": "STT",
+    "city": "ST THOMAS, VI"
+  },
+  {
+    "i94_port": "LGU",
+    "city": "CACHE AIRPORT - LOGAN, UT"
+  },
+  {
+    "i94_port": "SLC",
+    "city": "SALT LAKE CITY, UT"
+  },
+  {
+    "i94_port": "CHO",
+    "city": "ALBEMARLE CHARLOTTESVILLE, VA"
+  },
+  {
+    "i94_port": "DAA",
+    "city": "DAVISON AAF - FAIRFAX CNTY, VA"
+  },
+  {
+    "i94_port": "HOP",
+    "city": "HOPEWELL, VA"
+  },
+  {
+    "i94_port": "HEF",
+    "city": "MANASSAS, VA #ARPT"
+  },
+  {
+    "i94_port": "NWN",
+    "city": "NEWPORT, VA"
+  },
+  {
+    "i94_port": "NOR",
+    "city": "NORFOLK, VA"
+  },
+  {
+    "i94_port": "RCM",
+    "city": "RICHMOND, VA"
+  },
+  {
+    "i94_port": "ABS",
+    "city": "ALBURG SPRINGS, VT"
+  },
+  {
+    "i94_port": "ABG",
+    "city": "ALBURG, VT"
+  },
+  {
+    "i94_port": "BEB",
+    "city": "BEEBE PLAIN, VT"
+  },
+  {
+    "i94_port": "BEE",
+    "city": "BEECHER FALLS, VT"
+  },
+  {
+    "i94_port": "BRG",
+    "city": "BURLINGTON, VT"
+  },
+  {
+    "i94_port": "CNA",
+    "city": "CANAAN, VT"
+  },
+  {
+    "i94_port": "DER",
+    "city": "DERBY LINE, VT (I-91)"
+  },
+  {
+    "i94_port": "DLV",
+    "city": "DERBY LINE, VT (RT. 5)"
+  },
+  {
+    "i94_port": "ERC",
+    "city": "EAST RICHFORD, VT"
+  },
+  {
+    "i94_port": "HIG",
+    "city": "HIGHGATE SPRINGS, VT"
+  },
+  {
+    "i94_port": "MOR",
+    "city": "MORSES LINE, VT"
+  },
+  {
+    "i94_port": "NPV",
+    "city": "NEWPORT, VT"
+  },
+  {
+    "i94_port": "NRT",
+    "city": "NORTH TROY, VT"
+  },
+  {
+    "i94_port": "NRN",
+    "city": "NORTON, VT"
+  },
+  {
+    "i94_port": "PIV",
+    "city": "PINNACLE ROAD, VT"
+  },
+  {
+    "i94_port": "RIF",
+    "city": "RICHFORT, VT"
+  },
+  {
+    "i94_port": "STA",
+    "city": "ST ALBANS, VT"
+  },
+  {
+    "i94_port": "SWB",
+    "city": "SWANTON, VT (BP - SECTOR HQ)"
+  },
+  {
+    "i94_port": "WBE",
+    "city": "WEST BERKSHIRE, VT"
+  },
+  {
+    "i94_port": "ABE",
+    "city": "ABERDEEN, WA"
+  },
+  {
+    "i94_port": "ANA",
+    "city": "ANACORTES, WA"
+  },
+  {
+    "i94_port": "BEL",
+    "city": "BELLINGHAM, WA"
+  },
+  {
+    "i94_port": "BLI",
+    "city": "BELLINGHAM, WASHINGTON #INTL"
+  },
+  {
+    "i94_port": "BLA",
+    "city": "BLAINE, WA"
+  },
+  {
+    "i94_port": "BWA",
+    "city": "BOUNDARY, WA"
+  },
+  {
+    "i94_port": "CUR",
+    "city": "CURLEW, WA (BPS)"
+  },
+  {
+    "i94_port": "DVL",
+    "city": "DANVILLE, WA"
+  },
+  {
+    "i94_port": "EVE",
+    "city": "EVERETT, WA"
+  },
+  {
+    "i94_port": "FER",
+    "city": "FERRY, WA"
+  },
+  {
+    "i94_port": "FRI",
+    "city": "FRIDAY HARBOR, WA"
+  },
+  {
+    "i94_port": "FWA",
+    "city": "FRONTIER, WA"
+  },
+  {
+    "i94_port": "KLM",
+    "city": "KALAMA, WA"
+  },
+  {
+    "i94_port": "LAU",
+    "city": "LAURIER, WA"
+  },
+  {
+    "i94_port": "LON",
+    "city": "LONGVIEW, WA"
+  },
+  {
+    "i94_port": "MET",
+    "city": "METALINE FALLS, WA"
+  },
+  {
+    "i94_port": "MWH",
+    "city": "MOSES LAKE GRANT COUNTY ARPT, WA"
+  },
+  {
+    "i94_port": "NEA",
+    "city": "NEAH BAY, WA"
+  },
+  {
+    "i94_port": "NIG",
+    "city": "NIGHTHAWK, WA"
+  },
+  {
+    "i94_port": "OLY",
+    "city": "OLYMPIA, WA"
+  },
+  {
+    "i94_port": "ORO",
+    "city": "OROVILLE, WA"
+  },
+  {
+    "i94_port": "PWB",
+    "city": "PASCO, WA"
+  },
+  {
+    "i94_port": "PIR",
+    "city": "POINT ROBERTS, WA"
+  },
+  {
+    "i94_port": "PNG",
+    "city": "PORT ANGELES, WA"
+  },
+  {
+    "i94_port": "PTO",
+    "city": "PORT TOWNSEND, WA"
+  },
+  {
+    "i94_port": "SEA",
+    "city": "SEATTLE, WA"
+  },
+  {
+    "i94_port": "SPO",
+    "city": "SPOKANE, WA"
+  },
+  {
+    "i94_port": "SUM",
+    "city": "SUMAS, WA"
+  },
+  {
+    "i94_port": "TAC",
+    "city": "TACOMA, WA"
+  },
+  {
+    "i94_port": "PSC",
+    "city": "TRI-CITIES - PASCO, WA"
+  },
+  {
+    "i94_port": "VAN",
+    "city": "VANCOUVER, WA"
+  },
+  {
+    "i94_port": "AGM",
+    "city": "ALGOMA, WI"
+  },
+  {
+    "i94_port": "BAY",
+    "city": "BAYFIELD, WI"
+  },
+  {
+    "i94_port": "GRB",
+    "city": "GREEN BAY, WI"
+  },
+  {
+    "i94_port": "MNW",
+    "city": "MANITOWOC, WI"
+  },
+  {
+    "i94_port": "MIL",
+    "city": "MILWAUKEE, WI"
+  },
+  {
+    "i94_port": "MSN",
+    "city": "TRUAX FIELD - DANE COUNTY, WI"
+  },
+  {
+    "i94_port": "CHS",
+    "city": "CHARLESTON, WV"
+  },
+  {
+    "i94_port": "CLK",
+    "city": "CLARKSBURG, WV"
+  },
+  {
+    "i94_port": "BLF",
+    "city": "MERCER COUNTY, WV"
+  },
+  {
+    "i94_port": "CSP",
+    "city": "CASPER, WY"
+  },
+  {
+    "i94_port": "XXX",
+    "city": "NOT REPORTED/UNKNOWN"
+  },
+  {
+    "i94_port": 888,
+    "city": "UNIDENTIFED AIR / SEAPORT"
+  },
+  {
+    "i94_port": "UNK",
+    "city": "UNKNOWN POE"
+  },
+  {
+    "i94_port": "CLG",
+    "city": "CALGARY, CANADA"
+  },
+  {
+    "i94_port": "EDA",
+    "city": "EDMONTON, CANADA"
+  },
+  {
+    "i94_port": "YHC",
+    "city": "HAKAI PASS, CANADA"
+  },
+  {
+    "i94_port": "HAL",
+    "city": "Halifax, NS, Canada"
+  },
+  {
+    "i94_port": "MON",
+    "city": "MONTREAL, CANADA"
+  },
+  {
+    "i94_port": "OTT",
+    "city": "OTTAWA, CANADA"
+  },
+  {
+    "i94_port": "YXE",
+    "city": "SASKATOON, CANADA"
+  },
+  {
+    "i94_port": "TOR",
+    "city": "TORONTO, CANADA"
+  },
+  {
+    "i94_port": "VCV",
+    "city": "VANCOUVER, CANADA"
+  },
+  {
+    "i94_port": "VIC",
+    "city": "VICTORIA, CANADA"
+  },
+  {
+    "i94_port": "WIN",
+    "city": "WINNIPEG, CANADA"
+  },
+  {
+    "i94_port": "AMS",
+    "city": "AMSTERDAM-SCHIPHOL, NETHERLANDS"
+  },
+  {
+    "i94_port": "ARB",
+    "city": "ARUBA, NETH ANTILLES"
+  },
+  {
+    "i94_port": "BAN",
+    "city": "BANKOK, THAILAND"
+  },
+  {
+    "i94_port": "BEI",
+    "city": "BEICA #ARPT, ETHIOPIA"
+  },
+  {
+    "i94_port": "PEK",
+    "city": "BEIJING CAPITAL INTL, PRC"
+  },
+  {
+    "i94_port": "BDA",
+    "city": "KINDLEY FIELD, BERMUDA"
+  },
+  {
+    "i94_port": "BOG",
+    "city": "BOGOTA, EL DORADO #ARPT, COLOMBIA"
+  },
+  {
+    "i94_port": "EZE",
+    "city": "BUENOS AIRES, MINISTRO PIST, ARGENTINA"
+  },
+  {
+    "i94_port": "CUN",
+    "city": "CANCUN, MEXICO"
+  },
+  {
+    "i94_port": "CRQ",
+    "city": "CARAVELAS, BA #ARPT, BRAZIL"
+  },
+  {
+    "i94_port": "MVD",
+    "city": "CARRASCO, URUGUAY"
+  },
+  {
+    "i94_port": "DUB",
+    "city": "DUBLIN, IRELAND"
+  },
+  {
+    "i94_port": "FOU",
+    "city": "FOUGAMOU #ARPT, GABON"
+  },
+  {
+    "i94_port": "FBA",
+    "city": "FREEPORT, BAHAMAS"
+  },
+  {
+    "i94_port": "MTY",
+    "city": "GEN M. ESCOBEDO, Monterrey, MX"
+  },
+  {
+    "i94_port": "HMO",
+    "city": "GEN PESQUEIRA GARCIA, MX"
+  },
+  {
+    "i94_port": "GCM",
+    "city": "GRAND CAYMAN, CAYMAN ISLAND"
+  },
+  {
+    "i94_port": "GDL",
+    "city": "GUADALAJARA, MIGUEL HIDAL, MX"
+  },
+  {
+    "i94_port": "HAM",
+    "city": "HAMILTON, BERMUDA"
+  },
+  {
+    "i94_port": "ICN",
+    "city": "INCHON, SEOUL KOREA"
+  },
+  {
+    "i94_port": "IWA",
+    "city": "INVALID - IWAKUNI, JAPAN"
+  },
+  {
+    "i94_port": "CND",
+    "city": "KOGALNICEANU, ROMANIA"
+  },
+  {
+    "i94_port": "LAH",
+    "city": "LABUHA ARPT, INDONESIA"
+  },
+  {
+    "i94_port": "DUR",
+    "city": "LOUIS BOTHA, SOUTH AFRICA"
+  },
+  {
+    "i94_port": "MAL",
+    "city": "MANGOLE ARPT, INDONESIA"
+  },
+  {
+    "i94_port": "MDE",
+    "city": "MEDELLIN, COLOMBIA"
+  },
+  {
+    "i94_port": "MEX",
+    "city": "JUAREZ INTL, MEXICO CITY, MX"
+  },
+  {
+    "i94_port": "LHR",
+    "city": "MIDDLESEX, ENGLAND"
+  },
+  {
+    "i94_port": "NBO",
+    "city": "NAIROBI, KENYA"
+  },
+  {
+    "i94_port": "NAS",
+    "city": "NASSAU, BAHAMAS"
+  },
+  {
+    "i94_port": "NCA",
+    "city": "NORTH CAICOS, TURK & CAIMAN"
+  },
+  {
+    "i94_port": "PTY",
+    "city": "OMAR TORRIJOS, PANAMA"
+  },
+  {
+    "i94_port": "SPV",
+    "city": "PAPUA, NEW GUINEA"
+  },
+  {
+    "i94_port": "UIO",
+    "city": "QUITO (MARISCAL SUCR), ECUADOR"
+  },
+  {
+    "i94_port": "RIT",
+    "city": "ROME, ITALY"
+  },
+  {
+    "i94_port": "SNO",
+    "city": "SAKON NAKHON #ARPT, THAILAND"
+  },
+  {
+    "i94_port": "SLP",
+    "city": "SAN LUIS POTOSI #ARPT, MEXICO"
+  },
+  {
+    "i94_port": "SAN",
+    "city": "SAN SALVADOR, EL SALVADOR"
+  },
+  {
+    "i94_port": "SRO",
+    "city": "SANTANA RAMOS #ARPT, COLOMBIA"
+  },
+  {
+    "i94_port": "GRU",
+    "city": "GUARULHOS INTL, SAO PAULO, BRAZIL"
+  },
+  {
+    "i94_port": "SHA",
+    "city": "SHANNON, IRELAND"
+  },
+  {
+    "i94_port": "HIL",
+    "city": "SHILLAVO, ETHIOPIA"
+  },
+  {
+    "i94_port": "TOK",
+    "city": "TOROKINA #ARPT, PAPUA, NEW GUINEA"
+  },
+  {
+    "i94_port": "VER",
+    "city": "VERACRUZ, MEXICO"
+  },
+  {
+    "i94_port": "LGW",
+    "city": "WEST SUSSEX, ENGLAND"
+  },
+  {
+    "i94_port": "ZZZ",
+    "city": "MEXICO Land (Banco de Mexico)"
+  },
+  {
+    "i94_port": "CHN",
+    "city": "No PORT Code (CHN)"
+  },
+  {
+    "i94_port": "CNC",
+    "city": "CANNON CORNERS, NY"
+  },
+  {
+    "i94_port": "MAA",
+    "city": "Abu Dhabi"
+  },
+  {
+    "i94_port": "AG0",
+    "city": "MAGNOLIA, AR"
+  },
+  {
+    "i94_port": "BHM",
+    "city": "BAR HARBOR, ME"
+  },
+  {
+    "i94_port": "BHX",
+    "city": "BIRMINGHAM, AL"
+  },
+  {
+    "i94_port": "CAK",
+    "city": "AKRON, OH"
+  },
+  {
+    "i94_port": "FOK",
+    "city": "SUFFOLK COUNTY, NY"
+  },
+  {
+    "i94_port": "LND",
+    "city": "LANDER, WY"
+  },
+  {
+    "i94_port": "MAR",
+    "city": "MARFA, TX"
+  },
+  {
+    "i94_port": "MLI",
+    "city": "MOLINE, IL"
+  },
+  {
+    "i94_port": "RIV",
+    "city": "RIVERSIDE, CA"
+  },
+  {
+    "i94_port": "RME",
+    "city": "ROME, NY"
+  },
+  {
+    "i94_port": "VNY",
+    "city": "VAN NUYS, CA"
+  },
+  {
+    "i94_port": "YUM",
+    "city": "YUMA, AZ"
+  },
+  {
+    "i94_port": "FRG",
+    "city": "Collapsed (FOK) 06/15"
+  },
+  {
+    "i94_port": "HRL",
+    "city": "Collapsed (HLG) 06/15"
+  },
+  {
+    "i94_port": "ISP",
+    "city": "Collapsed (FOK) 06/15"
+  },
+  {
+    "i94_port": "JSJ",
+    "city": "Collapsed (SAJ) 06/15"
+  },
+  {
+    "i94_port": "BUS",
+    "city": "Collapsed (BUF) 06/15"
+  },
+  {
+    "i94_port": "IAG",
+    "city": "Collapsed (NIA) 06/15"
+  },
+  {
+    "i94_port": "PHN",
+    "city": "Collapsed (PHU) 06/15"
+  },
+  {
+    "i94_port": "STN",
+    "city": "Collapsed (STR) 06/15"
+  },
+  {
+    "i94_port": "VMB",
+    "city": "Collapsed (VNB) 06/15"
+  },
+  {
+    "i94_port": "T01",
+    "city": "Collapsed (SEA) 06/15"
+  },
+  {
+    "i94_port": "PHF",
+    "city": "No PORT Code (PHF)"
+  },
+  {
+    "i94_port": "DRV",
+    "city": "No PORT Code (DRV)"
+  },
+  {
+    "i94_port": "FTB",
+    "city": "No PORT Code (FTB)"
+  },
+  {
+    "i94_port": "GAC",
+    "city": "No PORT Code (GAC)"
+  },
+  {
+    "i94_port": "GMT",
+    "city": "No PORT Code (GMT)"
+  },
+  {
+    "i94_port": "JFA",
+    "city": "No PORT Code (JFA)"
+  },
+  {
+    "i94_port": "JMZ",
+    "city": "No PORT Code (JMZ)"
+  },
+  {
+    "i94_port": "NC8",
+    "city": "No PORT Code (NC8)"
+  },
+  {
+    "i94_port": "NYL",
+    "city": "No PORT Code (NYL)"
+  },
+  {
+    "i94_port": "OAI",
+    "city": "No PORT Code (OAI)"
+  },
+  {
+    "i94_port": "PCW",
+    "city": "No PORT Code (PCW)"
+  },
+  {
+    "i94_port": "WA5",
+    "city": "No PORT Code (WAS)"
+  },
+  {
+    "i94_port": "WTR",
+    "city": "No PORT Code (WTR)"
+  },
+  {
+    "i94_port": "X96",
+    "city": "No PORT Code (X96)"
+  },
+  {
+    "i94_port": "XNA",
+    "city": "No PORT Code (XNA)"
+  },
+  {
+    "i94_port": "YGF",
+    "city": "No PORT Code (YGF)"
+  },
+  {
+    "i94_port": "5T6",
+    "city": "No PORT Code (5T6)"
+  },
+  {
+    "i94_port": "060",
+    "city": "No PORT Code (60)"
+  },
+  {
+    "i94_port": "SP0",
+    "city": "No PORT Code (SP0)"
+  },
+  {
+    "i94_port": "W55",
+    "city": "No PORT Code (W55)"
+  },
+  {
+    "i94_port": "X44",
+    "city": "No PORT Code (X44)"
+  },
+  {
+    "i94_port": "AUH",
+    "city": "No PORT Code (AUH)"
+  },
+  {
+    "i94_port": "RYY",
+    "city": "No PORT Code (RYY)"
+  },
+  {
+    "i94_port": "SUS",
+    "city": "No PORT Code (SUS)"
+  },
+  {
+    "i94_port": "74S",
+    "city": "No PORT Code (74S)"
+  },
+  {
+    "i94_port": "ATW",
+    "city": "No PORT Code (ATW)"
+  },
+  {
+    "i94_port": "CPX",
+    "city": "No PORT Code (CPX)"
+  },
+  {
+    "i94_port": "MTH",
+    "city": "No PORT Code (MTH)"
+  },
+  {
+    "i94_port": "PFN",
+    "city": "No PORT Code (PFN)"
+  },
+  {
+    "i94_port": "SCH",
+    "city": "No PORT Code (SCH)"
+  },
+  {
+    "i94_port": "ASI",
+    "city": "No PORT Code (ASI)"
+  },
+  {
+    "i94_port": "BKF",
+    "city": "No PORT Code (BKF)"
+  },
+  {
+    "i94_port": "DAY",
+    "city": "No PORT Code (DAY)"
+  },
+  {
+    "i94_port": "Y62",
+    "city": "No PORT Code (Y62)"
+  },
+  {
+    "i94_port": "AG",
+    "city": "No PORT Code (AG)"
+  },
+  {
+    "i94_port": "BCM",
+    "city": "No PORT Code (BCM)"
+  },
+  {
+    "i94_port": "DEC",
+    "city": "No PORT Code (DEC)"
+  },
+  {
+    "i94_port": "PLB",
+    "city": "No PORT Code (PLB)"
+  },
+  {
+    "i94_port": "CXO",
+    "city": "No PORT Code (CXO)"
+  },
+  {
+    "i94_port": "JBQ",
+    "city": "No PORT Code (JBQ)"
+  },
+  {
+    "i94_port": "JIG",
+    "city": "No PORT Code (JIG)"
+  },
+  {
+    "i94_port": "OGS",
+    "city": "No PORT Code (OGS)"
+  },
+  {
+    "i94_port": "TIW",
+    "city": "No PORT Code (TIW)"
+  },
+  {
+    "i94_port": "OTS",
+    "city": "No PORT Code (OTS)"
+  },
+  {
+    "i94_port": "AMT",
+    "city": "No PORT Code (AMT)"
+  },
+  {
+    "i94_port": "EGE",
+    "city": "No PORT Code (EGE)"
+  },
+  {
+    "i94_port": "GPI",
+    "city": "No PORT Code (GPI)"
+  },
+  {
+    "i94_port": "NGL",
+    "city": "No PORT Code (NGL)"
+  },
+  {
+    "i94_port": "OLM",
+    "city": "No PORT Code (OLM)"
+  },
+  {
+    "i94_port": ".GA",
+    "city": "No PORT Code (.GA)"
+  },
+  {
+    "i94_port": "CLX",
+    "city": "No PORT Code (CLX)"
+  },
+  {
+    "i94_port": "CP",
+    "city": "No PORT Code (CP)"
+  },
+  {
+    "i94_port": "FSC",
+    "city": "No PORT Code (FSC)"
+  },
+  {
+    "i94_port": "NK",
+    "city": "No PORT Code (NK)"
+  },
+  {
+    "i94_port": "ADU",
+    "city": "No PORT Code (ADU)"
+  },
+  {
+    "i94_port": "AKT",
+    "city": "No PORT Code (AKT)"
+  },
+  {
+    "i94_port": "LIT",
+    "city": "No PORT Code (LIT)"
+  },
+  {
+    "i94_port": "A2A",
+    "city": "No PORT Code (A2A)"
+  },
+  {
+    "i94_port": "OSN",
+    "city": "No PORT Code (OSN)"
+  }
+]
