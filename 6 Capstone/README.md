@@ -33,27 +33,17 @@
 
 #### Fact Table
 
-- Fact I-94
-
-Contains an immigrant's information such as port of entry, citizenship and residency, arrival mode, visa type, arrival and departure date, age and gender.
+- I-94: Contains an immigrant's information such as port of entry, citizenship and residency, arrival mode, visa type, arrival and departure date, age and gender.
 
 #### Dimension Tables
 
-- Country
+- Country: Contains country code and name to provide detail behind a numeric citizenship country code and residence country code in I-94 fact table.
 
-Contains country code and name to provide detail behind a numeric citizenship country code and residence country code in I-94 fact table.
+- Airport: Contains airport information such as name, type, city and state linked by IATA code to I-94 fact table.
 
-- Airport
+- Arrival Mode: Contains detail such as arrival by air, sea or land for a numeric arrival mode in I-94 fact table.
 
-Contains airport information such as name, type, city and state linked by IATA code to I-94 fact table.
-
-- Arrival Mode
-
-Contains detail such as arrival by air, sea or land for a numeric arrival mode in I-94 fact table.
-
-- Visa Type
-
-Contains detail such as business, pleasure or student visa for a numeric visa type code in I-94 fact table.
+- Visa Type: Contains detail such as business, pleasure or student visa for a numeric visa type code in I-94 fact table.
 
 #### Technology Choice
 
