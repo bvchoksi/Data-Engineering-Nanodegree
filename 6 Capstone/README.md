@@ -1,7 +1,7 @@
-### Data Engineering Nanodegree Capstone Project
-#### Promoting Trade and Tourism in the US using I-94 Immigration Data
+## Data Engineering Nanodegree Capstone Project
+### Promoting Trade and Tourism in the US using I-94 Immigration Data
 
-## Purpose
+#### Purpose
 
 - The purpose of this project is to build a Spark data warehouse and subsequently, at some point in time, data marts and dashboards that would enable the US National Tourism and Trade Office to promote trade and tourism in the United States.
 
@@ -15,21 +15,29 @@
     
 - Airlines could plan their routes and adjust their schedules based on arrivals data.
 
-## Details
+#### Details
 
 - This project entails loading I-94 immigration data, airport, country and other dimensional data, and transforming it into fact and dimension tables using Spark.
 
 - The source data resides in files in CSV and JSON. The fact and dimension tables are stored in parquet tables.
 
-- The entire process of loading flat files, transforming them into a star schema, and then storing them in parquet tables is handled by a python script in `capstone.py`.
+- The entire process of loading flat files, transforming them into a star schema, and then storing them in parquet tables is handled by a python script in `capstone.ipynb`.
 
-## Fact Table
+#### Data Model
+
+<img src=img/Data Model.png>
+
+#### ETL Pipeline
+
+<img src=img/Pipeline.png>
+
+#### Fact Table
 
 - Fact I-94
 
 Contains an immigrant's information such as port of entry, citizenship and residency, arrival mode, visa type, arrival and departure date, age and gender.
 
-## Dimension Tables
+#### Dimension Tables
 
 - Country
 
@@ -47,3 +55,12 @@ Contains detail such as arrival by air, sea or land for a numeric arrival mode i
 
 Contains detail such as business, pleasure or student visa for a numeric visa type code in I-94 fact table.
 
+#### Summary
+
+- Apache Spark was the tool of choice because it is a cluster-computing framework that is built for big data processing.
+
+- Simply by adding clusters to an Apache Spark setup, millions of rows of source data can be processed.
+
+- The data warehouse tables are stored in the distributed and high-performing Parquet format, which allows for fast and simultaneous analytic processing by 100s of users.
+
+- The entire ETL process can be contained in a Python file, and scheduled, monitored and logged with Apache Airflow on an hourly, daily or monthly basis as per business requirement.
