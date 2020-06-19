@@ -19,9 +19,9 @@
 
 - This project entails loading I-94 immigration data, airport, country and other dimensional data, and transforming it into fact and dimension tables using Spark.
 
-- The source data resides in files in CSV and JSON. The fact and dimension tables are stored in parquet tables.
+- The source data resides in files in CSV and JSON. The fact and dimension tables are stored in Parquet tables.
 
-- The entire process of loading flat files, transforming them into a star schema, and then storing them in parquet tables is handled by a python script in `capstone.ipynb`.
+- The entire process of loading flat files, transforming them into a star schema, and then storing them in Parquet tables is handled by a python script in `capstone.ipynb`.
 
 #### Data Model
 
