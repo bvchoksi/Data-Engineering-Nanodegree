@@ -25,11 +25,11 @@
 
 #### Data Model
 
-<img src=img/Data Model.png>
+<img src=images/Data Model.png>
 
 #### ETL Pipeline
 
-<img src=img/Pipeline.png>
+<img src=images/Pipeline.png>
 
 #### Fact Table
 
