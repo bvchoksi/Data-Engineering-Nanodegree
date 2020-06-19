@@ -25,11 +25,11 @@
 
 #### Data Model
 
-<img src=images/Data Model.png>
+<img src='images/Data Model.png'>
 
 #### ETL Pipeline
 
-<img src=images/Pipeline.png>
+<img src='images/Pipeline.png'>
 
 #### Fact Table
 
@@ -55,7 +55,7 @@ Contains detail such as arrival by air, sea or land for a numeric arrival mode i
 
 Contains detail such as business, pleasure or student visa for a numeric visa type code in I-94 fact table.
 
-#### Summary
+#### Technology Choice
 
 - Apache Spark was the tool of choice because it is a cluster-computing framework that is built for big data processing.
 
